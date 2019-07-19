@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![Image](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi399_40cDjAhUVIMUKHTCmDsgQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCat_intelligence&psig=AOvVaw0rEcZRvt6G1DKb3vXG6VMJ&ust=1563613930780815)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -35,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-# meow
+# [meow](linked_doc)
 ☺ I just tested some special character...
 ☻♥♠♦♣○•◘○ 🛰
 
