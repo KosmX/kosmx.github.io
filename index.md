@@ -25,8 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/An_up-close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg/1024px-An_up-close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg)
-[Source](https://commons.wikimedia.org/w/index.php?curid=77595396)
+[![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/An_up-close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg/1024px-An_up-close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg)](https://commons.wikimedia.org/w/index.php?curid=77595396)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
